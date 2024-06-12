@@ -1,4 +1,4 @@
-# Atividade 4 - Jogo da Velha - fucnionando com
+# Atividade 4 - Jogo da Velha - fucnionando
 def verificar_digito(caractere, qual):
     while True:
         digito = input(f'{caractere}, informe a {qual}: ')
